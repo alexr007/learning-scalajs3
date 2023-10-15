@@ -1,6 +1,6 @@
-package j02
+package org.alexr
 
-import j02.Domain.Pt
+import Domain.Pt
 import org.scalajs.dom
 import org.scalajs.dom.html.Canvas
 

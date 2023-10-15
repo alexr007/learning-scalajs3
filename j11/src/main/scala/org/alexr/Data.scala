@@ -1,4 +1,4 @@
-package j02
+package org.alexr
 
 import Domain._
 
